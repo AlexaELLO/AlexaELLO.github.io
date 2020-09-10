@@ -1,0 +1,112 @@
+body {
+  background-color: #F7F4EE;
+}
+
+.container,
+.about_us,
+.workshop {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.menu {
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  line-height: 94px;
+  position: absolute;
+  padding-top: 180px;
+}
+
+.lady_in_black {
+  display: flex;
+  justify-content: center;
+}
+
+.about_us,
+.workshop {
+  display: flex;
+  justify-content: center;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 36px;
+  padding-top: 139px;
+}
+
+.gold_line {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.lines {
+  position: absolute;
+}
+
+.twig {
+  display: flex;
+  padding-left: 820px;
+}
+
+.paragraph_u,
+.paragraph_w,
+.email {
+  display: flex;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  width: 800px;
+}
+
+.second_logo {
+  display: flex;
+  margin: 0 auto;
+  padding-top: 80px;
+}
+
+.line_second {
+  display: flex;
+  justify-content: center;
+  padding-right: 640px;
+}
+
+.paragraph_w {
+  padding-top: 72px;
+}
+
+.rooms {
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+}
+
+.room_1 {
+  padding-right: 26px;
+}
+
+.big_line {
+  position: absolute;
+  z-index: -1;
+  top: 2090px;
+}
+
+.contacts {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+  padding-top: 136px;
+}
+
+.email {
+  display: flex;
+  justify-content: center;
+}
+
+.sub {
+  padding-left: 157px;
+}
