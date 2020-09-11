@@ -107,6 +107,78 @@ body {
   justify-content: center;
 }
 
+.sub div:first-child {
+  margin-right: 10px;
+}
+
 .sub {
-  padding-left: 157px;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.sub_ag {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.sub input {
+  width: 240px;
+  height: 36px;
+  padding-left: 10px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+button {
+  width: 140px;
+  height: 43px;
+  border: 1px solid #FAC0CB;
+  border-radius: 2px;
+  background-color: #FAC0CB;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 24px;
+}
+
+.sub_ag label {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+
+.line_footer {
+  display: flex;
+  margin: 0 auto;
+  padding-top: 136px;
+}
+
+.menu_2 {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.logo_last {
+  display: flex;
+  margin: 0 auto;
+  padding-top: 160px;
+  padding-bottom: 40px;
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+}
+
+.copyright img {
+  padding-right: 5px;
+  padding-top: 15px;
+}
+
+.copyright p {
+  font-family: 'Cormorant Garamont', serif;
+  font-size: 14px;
 }
