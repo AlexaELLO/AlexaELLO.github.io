@@ -8,6 +8,7 @@
     flex-direction: column;
     margin: 0;
     background-color: #F7F4EE;
+    overflow-x: hidden;
 }
 
 .logo-image {
